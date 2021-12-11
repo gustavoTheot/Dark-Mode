@@ -1,0 +1,46 @@
+@media screen and(max-width: 480px){
+    .container{
+
+        .dark-on{
+            right: 20px;
+            top: 20px;
+        }
+
+        .box{
+            width: 350px;
+
+            .img-profile{
+                width: 140px;
+                height: 140px;
+                
+                img{
+                    border-radius: 100%;
+                }
+            }
+
+            .text{
+                h1{
+                    font-size: 24px;
+                }
+    
+                h4{
+                    font-size: 20px;
+                }
+            }
+
+            .button-contact{
+                button{
+                    width: 224px;
+                    font-size: 16px;
+                }
+            }
+        }
+
+        .final-text{
+            margin-top: 20px;
+            p{
+                font-size: 16px;
+            }
+        }
+    }
+}

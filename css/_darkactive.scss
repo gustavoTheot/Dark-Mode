@@ -1,0 +1,37 @@
+body.dark-active{
+    background-color: #181818;
+
+    .dark-on{
+        .moon{
+            display: none;
+        }
+        .sun{
+            display: block;
+        }
+    }
+
+    .box{
+        background-color: #333333;
+
+        .text{
+            h1{
+                color: #8FABF2;
+            }
+            h4{
+                color: #E0E0E0;
+            }
+        }
+
+        .button-contact{
+            button{
+                background-color: $primary-color;
+                color: #8FABF2;
+
+                &:hover{
+                    background-color: #8FABF2;
+                    color: $primary-color;
+                }
+            }
+        }
+    }
+}
