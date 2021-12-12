@@ -5,8 +5,8 @@ Adicionar o modo norturno nos seus projetos é algo tão simples que depois dess
 
 ### Utilizado
 
-- <a href='https://www.flaticon.com/br/icone-gratis/html_1051277?term=html&page=1&position=5&page=1&position=5&related_id=1051277&origin=tag'> HTML
-- SCSS
-- JS
+- <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> SCSS
+- <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> JS
 
 
