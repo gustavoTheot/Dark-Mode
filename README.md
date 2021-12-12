@@ -1,4 +1,5 @@
 # Dark-Mode
+<link rel="icon" href="img/favicon.png" />
 
 Adicionar o modo norturno nos seus projetos é algo tão simples que depois desse documento você vai querer implementar em todos os seus projetos.
 
