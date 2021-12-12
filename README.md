@@ -5,8 +5,8 @@ Adicionar o modo norturno nos seus projetos é algo tão simples que depois dess
 
 ### Utilizado
 
-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> HTML
-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> SCSS
-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> JS
+- <i>https://www.flaticon.com/br/icone-gratis/html_1051277?term=html&page=1&position=5&page=1&position=5&related_id=1051277&origin=tag</i> HTML
+- SCSS
+- JS
 
 
