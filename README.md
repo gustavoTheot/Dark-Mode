@@ -55,7 +55,7 @@ body.dark-active{
 }
 ```
 
-###JS
+### JS
 
 A única função do JavaScript é verificar se ocorreu o clique no botão de alteração dos modos (dark and light).
 
