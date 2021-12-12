@@ -1,7 +1,7 @@
 # Dark-Mode
 <link rel="icon" href="img/favicon.png" />
 
-Adicionar o modo norturno nos projetos é algo tão simples que depois desse documentação explicativa você vai querer implementar em todos os seus projetos.
+Adicionar o modo noturno nos projetos é algo tão simples que depois desse documentação explicativa você vai querer implementar em todos os seus projetos.
 
 ### Tecnologias utilizadas
 
