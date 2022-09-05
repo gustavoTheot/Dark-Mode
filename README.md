@@ -12,7 +12,7 @@ Adicionar o modo noturno nos projetos é algo tão simples que depois desse docu
 # Explicando rápidamente o código
 
 ### CSS
-Na parte do CSS foram criadas classes que serão ativadas assim que op JS interpretar que ocorreu um clique no botão de modo noturno, alterando linhas de códigos do style.
+No CSS foram criadas classes que serão ativadas assim que op JS interpretar que ocorreu um clique no botão de modo noturno, alterando linhas de códigos do style.
 
 Style em scss:
 ```
